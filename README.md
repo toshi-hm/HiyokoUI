@@ -1,0 +1,4 @@
+# HiyokoUI
+
+これは、[Unity2021入門](https://www.amazon.co.jp/Unity2021%E5%85%A5%E9%96%80-%E6%9C%80%E6%96%B0%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AB%E3%82%88%E3%82%8B%E7%B0%A1%E5%8D%983D%EF%BC%862D%E3%82%B2%E3%83%BC%E3%83%A0%E5%88%B6%E4%BD%9C-%E8%8D%92%E5%B7%9D-%E5%B7%A7%E4%B9%9F-ebook/dp/B095Y4PLKG/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2GH9HAF5FA211&dib=eyJ2IjoiMSJ9.iHwYYYHRippqBfOHqBirVuE8EuQQQH7QvouZtd6sV00PCAFLMJrdLDwKo_qRIm9wwAGkJLtY7SwcB9144FZceVbAWf-0RwqL3YUiqzkOfgPqMVMuRYiPGd1BZ1qajyryb4zo-E6kXTY4FENmhbp8KLimkTWj-1538wXFUYtJ8gEcBWGePyw9NDshxYz_fBkXLSB5TxDh1ojADSHGqrchgHvIgBtFWVUAVO_9FUr3PNgdEb1v3ZX8nHQnm7p1-9oFBg4yuVqZ4DiFxFVNJ9XfaHasOlvAFQ24VVb09GuORz8.Ru-UTBd_523Us95kmI_1ZxyhUfkjshI_nfEVrzDqD_I&dib_tag=se&keywords=unity+2021%E5%85%A5%E9%96%80&qid=1718113772&sprefix=unity2021%E5%85%A5%E9%96%80%2Caps%2C153&sr=8-1)での2DゲームのUI画面を設計したUnityプロジェクトです。
+[HiyokoAttack](https://github.com/toshi-hm/HiyokoAttack)と組み合わせて使用します。
